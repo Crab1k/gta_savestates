@@ -1,0 +1,9 @@
+build/
+lab/
+work/
+*.log
+dist/*.dll
+dist/*.exe
+*.zip
+dist3/iii/
+dist3/vc/
